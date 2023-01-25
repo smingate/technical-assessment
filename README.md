@@ -14,9 +14,9 @@ Create a new endpoint "/targetAsset" in the Demo-API. This should call the Targe
 
 Think about edge cases and possible sources of errors and try to handle them cleanly. The business logic should be covered with unit tests wherever necessary. We should be able to see how you generally test business logic with UnitTests and which cases you consider important/worthy of testing.
 
-The code changes should be submitted as a merge request from a newly created branch to the main branch on the Github Repo.
+To ensure your privacy, please clone the Github repository and submit your work in your own Github repository. Once finished, kindly send us the link to the repository for review.
 
 ## TargetAsset-API
-REST Endpoint: [https://06ba2c18-ac5b-4e14-988c-94f400643ebf.mock.pstmn.io/targetAsset) 
+REST Endpoint: [https://06ba2c18-ac5b-4e14-988c-94f400643ebf.mock.pstmn.io/targetAsset]
 
 No Authentication is needed to the TargetAsset-API.
