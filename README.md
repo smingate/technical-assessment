@@ -14,7 +14,7 @@ Create a new endpoint "/targetAsset" in the Demo-API. This should call the Targe
 
 Think about edge cases and possible sources of errors and try to handle them cleanly. The business logic should be covered with unit tests wherever necessary. We should be able to see how you generally test business logic with UnitTests and which cases you consider important/worthy of testing.
 
-The code changes should be recorded as a Merge Request on the Gitlab Repo.
+The code changes should be submitted as a merge request from a newly created branch to the main branch on the Github Repo.
 
 ## TargetAsset-API
 REST Endpoint: [https://06ba2c18-ac5b-4e14-988c-94f400643ebf.mock.pstmn.io/targetAsset) 
