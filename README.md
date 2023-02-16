@@ -14,6 +14,8 @@ Create a new endpoint ```/targetAsset``` in the Demo-API. This should call the T
 
 Think about edge cases and possible sources of errors and try to handle them cleanly. The business logic should be covered with unit tests wherever necessary. We should be able to see how you generally test business logic with UnitTests and which cases you consider important/worthy of testing.
 
+We have a strong emphasis on the quality of our codebase, and as a team, we demand that you uphold this standard by employing both clean code principles and C# best practices in your code. These practices are highly valued in our organization and are critical to building maintainable, efficient, and scalable software solutions.
+
 > **Important:** To ensure your privacy, please **download** the Github repository and submit your work in your own Github repository. Once finished, kindly send us the link to the repository for review.
 
 ## TargetAsset-API
